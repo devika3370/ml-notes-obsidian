@@ -1,15 +1,14 @@
+## Retrieval-Augmented Generation
+
 Retrieval augmented generation is an AI framework that combines “retrieval” of facts from an external knowledge base with generative AI.
 
-![[RAG flowchart.png]]
+![alt text](<RAG flowchart.png>)
 ### Resources
 
-Paper:
-
-[2020] by Meta: [https://arxiv.org/abs/2005.11401v4](https://arxiv.org/abs/2005.11401v4)
-
+Paper: [2020] by Meta: [https://arxiv.org/abs/2005.11401v4](https://arxiv.org/abs/2005.11401v4)
 - [https://research.ibm.com/blog/retrieval-augmented-generation-RAG](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 - [https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=en](https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=en)
-- [https://www.intel.com/content/www/us/en/goal/how-to-implement-rag.html?cid=sem&source=sa360&campid=2025_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_generic_exact_cd_HQ-COMM-EnterpriseAI-EG-EntAI-OBS_FC25023_google_b2b_is_non-pbm_intel&ad_group=RAG-General_Exact&intel_term=retrieval+augmented+generation&sa360id=43700081469669295&gad_source=1&gclid=Cj0KCQjwkN--BhDkARIsAD_mnIr9jCA1DI9mkEC9AptaC2l3ZKqgN5vybv8hjQ0mJrgo5g7ajEQNCuEaAkjsEALw_wcB&gclsrc=aw.ds](https://www.intel.com/content/www/us/en/goal/how-to-implement-rag.html?cid=sem&source=sa360&campid=2025_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_generic_exact_cd_HQ-COMM-EnterpriseAI-EG-EntAI-OBS_FC25023_google_b2b_is_non-pbm_intel&ad_group=RAG-General_Exact&intel_term=retrieval+augmented+generation&sa360id=43700081469669295&gad_source=1&gclid=Cj0KCQjwkN--BhDkARIsAD_mnIr9jCA1DI9mkEC9AptaC2l3ZKqgN5vybv8hjQ0mJrgo5g7ajEQNCuEaAkjsEALw_wcB&gclsrc=aw.ds)
+- [Implement Retrieval-Augmented Generation (RAG) to Accelerate LLM Application Development](https://www.intel.com/content/www/us/en/goal/how-to-implement-rag.html?cid=sem&source=sa360&campid=2025_ao_cbu_us_gmocoma_gmocrbu_awa_text-link_generic_exact_cd_HQ-COMM-EnterpriseAI-EG-EntAI-OBS_FC25023_google_b2b_is_non-pbm_intel&ad_group=RAG-General_Exact&intel_term=retrieval+augmented+generation&sa360id=43700081469669295&gad_source=1&gclid=Cj0KCQjwkN--BhDkARIsAD_mnIr9jCA1DI9mkEC9AptaC2l3ZKqgN5vybv8hjQ0mJrgo5g7ajEQNCuEaAkjsEALw_wcB&gclsrc=aw.ds)
 - [https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 - [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [https://www.promptingguide.ai/techniques/rag](https://www.promptingguide.ai/techniques/rag)
