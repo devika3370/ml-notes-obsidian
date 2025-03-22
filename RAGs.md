@@ -1,4 +1,4 @@
-## Retrieval-Augmented Generation
+# RAGs
 
 Retrieval augmented generation is an AI framework that combines “retrieval” of facts from an external knowledge base with generative AI.
 
@@ -21,11 +21,11 @@ LLMs can be inconsistent - they have no idea what they are saying - they know ho
 
 Foundation models are fine-tuned to adapt to a variety of tasks - can be even fine-tuned for domain-specific knowledge. But fine-tuning alone rarely gives the model the full breadth of knowledge it needs to answer highly specific questions. RAG give access to LLMs to a specialized body of knowledge to answer questions in a more accurate way.
 
-It’s like an open-book exam. LLM can refer to facts from the knowledge base rather than from memory.
+It’s like an<mark style="background: #BBFABBA6;"> open-book exam.</mark> LLM can refer to facts from the knowledge base rather than from memory.
 
 > Do smaller LLMs perform better with RAGs than larger LLMs? Is this leveling the playing field?
 
-When organizations try to adapt LLMs to their use cases - to boose up employee productivity or reduce operational costs - they need to customize the off-the-shelf model to their organization’s data. However, they will need to fine-tune the model which can be costly.
+When organizations try to adapt LLMs to their use cases - to boost up employee productivity or reduce operational costs - they need to customize the off-the-shelf model to their organization’s data. However, they will need to fine-tune the model which can be costly.
 
 **How does it work?**
 
