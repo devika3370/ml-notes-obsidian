@@ -87,3 +87,6 @@ Knowledge graph is a structured representation of real-world entities, their att
 - **Nodes/Entities:** Represent objects, concepts, or entities (e.g., people, places, products).
 - **Edges/Relationships:** Define the connections between entities (e.g., “works at,” “is a type of,” “located in”).
 - **Attributes/Properties:** Describe additional information about the entities (e.g., name, age, date).
+
+**What is CAG?** - Context-Augmented Generation
+It's a variation of RAG that enhances the model's responses by incorporating external context <mark style="background: #ABF7F7A6;">beyond</mark> just retrieved documents. Uses broader context - text + structured data. RAG generally uses just text-based documents. 
