@@ -9,13 +9,3 @@ NVIDIA TensorRT is a high-performance deep learning "inference optimizer" and ru
 1) Layer Fusion: Combining operations to reduce latency
 2) Precision Calibration: Converting models to FP16 or INT8 for faster inference
 3) Kernel Auto-Tuning: Selecting the best kernel for the hardware. 
-
-```
-def load_serialized_engine(filename):
-
-    print("Loading deserialized TRT engine.")
-
-    with open(filename, 'rb') as engine_file:
-
-        return engine_file.read()
-```
